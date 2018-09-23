@@ -1,0 +1,7 @@
+idea
+.idea
+.vscode
+.DS_Store
+/archives/*
+/true360/config/env.ini
+*.pyc
